@@ -12,3 +12,7 @@ this is an image of a cat
 
 
 does that mean that the cat was really interesting in posing to the camera? I mean, com'on how the heck does it even know it's a thing in the `Cat-Verse`.
+
+stranded in the middle of nowhere gives a sense of adventure of some sort.
+
+may i know if this is nonsense or rubbish
