@@ -16,3 +16,5 @@ does that mean that the cat was really interesting in posing to the camera? I me
 stranded in the middle of nowhere gives a sense of adventure of some sort.
 
 may i know if this is nonsense or rubbish
+
+edge of the world has a sunset?
