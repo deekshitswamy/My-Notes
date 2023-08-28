@@ -20,3 +20,5 @@ may i know if this is nonsense or rubbish
 edge of the world has a sunset?
 
 there is something about waves. they always try to wash away the past. periodic 
+
+![]](https://github.com/Deeku-Zeus/My-Notes/blob/master/InterestingLinks.md#some-links-i-found-that-are-interesting) Links...
