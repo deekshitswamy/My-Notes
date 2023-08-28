@@ -34,3 +34,6 @@ https://opentf.org/
 AI infrastructure for the world's developers
 https://www.modular.com/
 https://docs.modular.com/mojo/
+
+Codecademy
+https://www.codecademy.com/
