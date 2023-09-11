@@ -40,3 +40,6 @@ https://www.codecademy.com/
 
 How to get your website on Google Search
 https://developers.google.com/search
+
+learn how multiprocessing works, what system calls really are, how computers manage memory with hardware interrupts, and how Linux loads executables.
+https://cpu.land/
