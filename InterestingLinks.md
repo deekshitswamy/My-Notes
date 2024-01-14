@@ -49,3 +49,6 @@ https://datatracker.ietf.org/
 
 we can document our project here
 https://www.gitbook.com/
+
+fun things to try by interaction
+https://neal.fun/
