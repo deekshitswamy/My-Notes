@@ -52,3 +52,6 @@ https://www.gitbook.com/
 
 fun things to try by interaction
 https://neal.fun/
+
+Effortlessly Analyze Your Competitive Landscape
+https://www.similarweb.com/
