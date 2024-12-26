@@ -55,3 +55,7 @@ https://neal.fun/
 
 Effortlessly Analyze Your Competitive Landscape
 https://www.similarweb.com/
+
+To get a roadmap of how to learn stuff
+https://roadmap.sh/
+
