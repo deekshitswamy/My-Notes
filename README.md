@@ -55,3 +55,5 @@ ps5 GTA 5
  work
 
  same work
+
+walked almost 5km
